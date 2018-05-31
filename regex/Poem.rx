@@ -1,0 +1,2 @@
+poem (?P<Poem>.*)
+story of (?P<Poem>.*)
